@@ -15,7 +15,8 @@ public class Application {
 
     // Method to calculate the average price of books
     public static double calculateAveragePrice(List<String[]> books) {
-       
+        // Dummy return statement
+       return 0.0;
     }
 
     // Example main method to use the functions
